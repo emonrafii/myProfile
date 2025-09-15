@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23358
-Fork on GitHub
-7933
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Emon Rafi</h1>
 <h3 align="center">A passionate web app developer</h3>
 
